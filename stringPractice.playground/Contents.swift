@@ -8,6 +8,8 @@ import UIKit
 
 var learningCurve = "For the love of God!"
 
+var test = 73 
+
 print(learningCurve)
 
 //This is how to include double quotes in your string
