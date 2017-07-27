@@ -6,6 +6,10 @@ import UIKit
 
 //String Practice
 
+var learningCurve = "For the love of God!"
+
+print(learningCurve)
+
 //This is how to include double quotes in your string
 let greeting = " The first thing to say is \"Hello World\""
 print(greeting)
