@@ -18,7 +18,6 @@ if greeting.contains("thing to say") {print ("You should say this")}
 var myString = ""
 if myString.isEmpty { print("The string is empty") }
 
-
 //Does your playground work like this or nah!! 
 
 var toe:Int = 19
