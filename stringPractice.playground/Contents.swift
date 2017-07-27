@@ -39,3 +39,12 @@ if name.characters.count < 8 { print ("This name is too short!") }
 let someCharacter: Character = "e"
 switch someCharacter { case "a", "e", "i", "o", "u" : print("\(someCharacter) is a vowel.")
 default: print("\(someCharacter) is not a vowel.") }
+
+
+
+
+
+
+
+
+
