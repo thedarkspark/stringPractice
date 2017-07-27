@@ -22,6 +22,11 @@ if myString.isEmpty { print("The string is empty") }
 
 var toe:Int = 19
 
+let wisdom = 20
+
+print(wisdom)
+
+
 //interpolation
 // \ is an escape character also used for string interpolation
 let name = "Rick"
