@@ -10,6 +10,10 @@ var learningCurve = "For the love of God!"
 
 var test = 73
 
+var myDouble: Double = 2.4
+
+// Above I pretty much just added a double. 
+
 var explanation:String = "Okay now its time to get to the real test....s!"
 
 // Above
