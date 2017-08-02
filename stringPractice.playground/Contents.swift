@@ -8,7 +8,19 @@ import UIKit
 
 var learningCurve = "For the love of God!"
 
+<<<<<<< HEAD
 var test = 73 
+=======
+var test = 73
+
+var myDouble: Double = 2.4
+
+// Above I pretty much just added a double. 
+
+var explanation:String = "Okay now its time to get to the real test....s!"
+
+// Above
+>>>>>>> 371df9a9ab9e0bbdac3a94230338b5b039f6da99
 
 print(learningCurve)
 
@@ -39,6 +51,7 @@ if name.characters.count < 8 { print ("This name is too short!") }
 let someCharacter: Character = "e"
 switch someCharacter { case "a", "e", "i", "o", "u" : print("\(someCharacter) is a vowel.")
 default: print("\(someCharacter) is not a vowel.") }
+<<<<<<< HEAD
 
 
 
@@ -48,3 +61,6 @@ default: print("\(someCharacter) is not a vowel.") }
 
 
 
+=======
+}
+>>>>>>> 371df9a9ab9e0bbdac3a94230338b5b039f6da99
